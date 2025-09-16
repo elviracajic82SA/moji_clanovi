@@ -94,11 +94,7 @@ Ako koristiš seedere ili `init_db.sql`, dostupan je račun:
 
 ---
 
-<<<<<<< HEAD
 ## 📑 Napomene
-=======
-## 📑 Napomene za profesora
->>>>>>> 76ec129 (Prvi Komit)
 - Projekt se može pokrenuti lokalno ili na serveru (Nginx/Apache).
 - U `.gitignore` su isključeni `vendor/`, `node_modules/` i `.env` fajlovi (potrebno je instalirati zavisnosti i podesiti `.env`).
 - README.md sadrži sve potrebne upute za instalaciju i pokretanje.
